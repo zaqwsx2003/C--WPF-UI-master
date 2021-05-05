@@ -1,0 +1,30 @@
+C:\Users\paulw\source\repos\WPFModernUI\WPFModernUI\bin\Debug\WPFModernUI.exe.config
+C:\Users\paulw\source\repos\WPFModernUI\WPFModernUI\bin\Debug\WPFModernUI.exe
+C:\Users\paulw\source\repos\WPFModernUI\WPFModernUI\bin\Debug\WPFModernUI.pdb
+C:\Users\paulw\source\repos\WPFModernUI\WPFModernUI\obj\Debug\WPFModernUI.csprojAssemblyReference.cache
+C:\Users\paulw\source\repos\WPFModernUI\WPFModernUI\obj\Debug\MainWindow.g.cs
+C:\Users\paulw\source\repos\WPFModernUI\WPFModernUI\obj\Debug\App.g.cs
+C:\Users\paulw\source\repos\WPFModernUI\WPFModernUI\obj\Debug\WPFModernUI_MarkupCompile.cache
+C:\Users\paulw\source\repos\WPFModernUI\WPFModernUI\obj\Debug\WPFModernUI_MarkupCompile.lref
+C:\Users\paulw\source\repos\WPFModernUI\WPFModernUI\obj\Debug\MainWindow.baml
+C:\Users\paulw\source\repos\WPFModernUI\WPFModernUI\obj\Debug\WPFModernUI.g.resources
+C:\Users\paulw\source\repos\WPFModernUI\WPFModernUI\obj\Debug\WPFModernUI.Properties.Resources.resources
+C:\Users\paulw\source\repos\WPFModernUI\WPFModernUI\obj\Debug\WPFModernUI.csproj.GenerateResource.cache
+C:\Users\paulw\source\repos\WPFModernUI\WPFModernUI\obj\Debug\WPFModernUI.csproj.CoreCompileInputs.cache
+C:\Users\paulw\source\repos\WPFModernUI\WPFModernUI\obj\Debug\WPFModernUI.exe
+C:\Users\paulw\source\repos\WPFModernUI\WPFModernUI\obj\Debug\WPFModernUI.pdb
+C:\Users\ssapi\Desktop\c# wpf 공부\CSharp-WPF-UI-master\WPFModernUI\bin\Debug\WPFModernUI.exe.config
+C:\Users\ssapi\Desktop\c# wpf 공부\CSharp-WPF-UI-master\WPFModernUI\bin\Debug\WPFModernUI.exe
+C:\Users\ssapi\Desktop\c# wpf 공부\CSharp-WPF-UI-master\WPFModernUI\bin\Debug\WPFModernUI.pdb
+C:\Users\ssapi\Desktop\c# wpf 공부\CSharp-WPF-UI-master\WPFModernUI\obj\Debug\WPFModernUI.csprojAssemblyReference.cache
+C:\Users\ssapi\Desktop\c# wpf 공부\CSharp-WPF-UI-master\WPFModernUI\obj\Debug\MainWindow.g.cs
+C:\Users\ssapi\Desktop\c# wpf 공부\CSharp-WPF-UI-master\WPFModernUI\obj\Debug\App.g.cs
+C:\Users\ssapi\Desktop\c# wpf 공부\CSharp-WPF-UI-master\WPFModernUI\obj\Debug\WPFModernUI_MarkupCompile.cache
+C:\Users\ssapi\Desktop\c# wpf 공부\CSharp-WPF-UI-master\WPFModernUI\obj\Debug\WPFModernUI_MarkupCompile.lref
+C:\Users\ssapi\Desktop\c# wpf 공부\CSharp-WPF-UI-master\WPFModernUI\obj\Debug\MainWindow.baml
+C:\Users\ssapi\Desktop\c# wpf 공부\CSharp-WPF-UI-master\WPFModernUI\obj\Debug\WPFModernUI.g.resources
+C:\Users\ssapi\Desktop\c# wpf 공부\CSharp-WPF-UI-master\WPFModernUI\obj\Debug\WPFModernUI.Properties.Resources.resources
+C:\Users\ssapi\Desktop\c# wpf 공부\CSharp-WPF-UI-master\WPFModernUI\obj\Debug\WPFModernUI.csproj.GenerateResource.cache
+C:\Users\ssapi\Desktop\c# wpf 공부\CSharp-WPF-UI-master\WPFModernUI\obj\Debug\WPFModernUI.csproj.CoreCompileInputs.cache
+C:\Users\ssapi\Desktop\c# wpf 공부\CSharp-WPF-UI-master\WPFModernUI\obj\Debug\WPFModernUI.exe
+C:\Users\ssapi\Desktop\c# wpf 공부\CSharp-WPF-UI-master\WPFModernUI\obj\Debug\WPFModernUI.pdb
